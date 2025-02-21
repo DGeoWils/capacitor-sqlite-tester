@@ -1,5 +1,7 @@
 {
   "name": "sqlite-test",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

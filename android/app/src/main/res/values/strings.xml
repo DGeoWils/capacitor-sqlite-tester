@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sqlite-test</string>
+    <string name="title_activity_main">sqlite-test</string>
+    <string name="package_name">com.dgewils.sqlitetest</string>
+    <string name="custom_url_scheme">com.dgewils.sqlitetest</string>
+</resources>
